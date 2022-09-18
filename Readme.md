@@ -1,12 +1,5 @@
-DER: https://app.diagrams.net/#G1DAj-tyS_X5MNT-5soKUsl_oFennLdsIA
-
-
-# Loja de Roupa - Com foco em camisetas sem estampas. 
-Wireframe criado faltando apenas definição de footer e headers.
-Cor principal definida como #7a9da3
-Sites de referencia:
-
-
-https://www.prettylittlething.us/clothing/the-basics.html
-
-https://minimalclub.com.br/pages/home
+#Sobre
+Projeto realizado em curso, criando um e-commerce de camisetas básicas. 
+Usando nossos conhecimentos em desenvolvimento web front e back-end:  
+Utilização de JavaScript, HTML e CSS, Node.JS, utilizando o framework express.js para criação de servidor web, e arquitetura MVC.  
+Utilização da biblioteca React.JS para criação de interfaces de usuários em páginas web. 
